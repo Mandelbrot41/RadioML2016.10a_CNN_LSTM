@@ -73,7 +73,7 @@ radioml_project/
 
 ### 1. 环境配置
 
-CNN-LSTM部分基于pytorch-2.7.0，SVM和RF部分基于RAPIDS-25.04。
+CNN-LSTM部分基于`pytorch-2.7.0`，SVM和RF部分基于`RAPIDS-25.04`。
 
 ### 2. 数据准备
 
